@@ -1,0 +1,178 @@
+{
+  "id": "demo_batch",
+  "display_name": "演示分容（虚构数据）",
+  "match": {
+    "filename_regex": "^DEMO-BATCH.*\\.txt$",
+    "content_signature": [
+      "批号",
+      "制备日期",
+      "演示数据"
+    ],
+    "scan_lines": 8
+  },
+  "txt": {
+    "header_lines": 3,
+    "group_key_column": 0,
+    "forward_fill_columns": [],
+    "group_fill_columns": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "encodings": [
+      "utf-8-sig",
+      "utf-8",
+      "gb18030",
+      "gbk"
+    ]
+  },
+  "source": {
+    "sample_workbook": "assets/templates/demo_batch.xlsx",
+    "sample_sheet": "演示分容",
+    "header_rows": 2
+  },
+  "output": {
+    "workbook_name": "演示分容数据.xlsx",
+    "sheet_name": "演示分容"
+  },
+  "columns": [
+    {
+      "excel": "A",
+      "txt": 0,
+      "type": "text"
+    },
+    {
+      "excel": "B",
+      "txt": 1,
+      "type": "text"
+    },
+    {
+      "excel": "C",
+      "txt": 2,
+      "type": "text"
+    },
+    {
+      "excel": "D",
+      "txt": 3,
+      "type": "text"
+    },
+    {
+      "excel": "E",
+      "txt": 4,
+      "type": "text"
+    },
+    {
+      "excel": "F",
+      "txt": 5,
+      "type": "text"
+    },
+    {
+      "excel": "G",
+      "txt": 6,
+      "type": "number"
+    },
+    {
+      "excel": "H",
+      "txt": 7,
+      "type": "number"
+    },
+    {
+      "excel": "I",
+      "txt": 8,
+      "type": "number"
+    },
+    {
+      "excel": "J",
+      "txt": 9,
+      "type": "number"
+    },
+    {
+      "excel": "K",
+      "txt": 10,
+      "type": "number"
+    },
+    {
+      "excel": "L",
+      "txt": 11,
+      "type": "number"
+    },
+    {
+      "excel": "M",
+      "txt": 12,
+      "type": "number"
+    },
+    {
+      "excel": "N",
+      "txt": 13,
+      "type": "number"
+    },
+    {
+      "excel": "O",
+      "txt": 14,
+      "type": "number"
+    },
+    {
+      "excel": "P",
+      "txt": 15,
+      "type": "number"
+    },
+    {
+      "excel": "Q",
+      "txt": 16,
+      "type": "percent"
+    },
+    {
+      "excel": "R",
+      "txt": 17,
+      "type": "number"
+    },
+    {
+      "excel": "S",
+      "txt": 18,
+      "type": "number"
+    },
+    {
+      "excel": "T",
+      "txt": 19,
+      "type": "number"
+    }
+  ],
+  "formulas": [
+    {
+      "excel": "I",
+      "source_row": 3
+    },
+    {
+      "excel": "K",
+      "source_row": 3
+    },
+    {
+      "excel": "L",
+      "source_row": 3
+    },
+    {
+      "excel": "M",
+      "source_row": 3
+    },
+    {
+      "excel": "N",
+      "source_row": 3
+    }
+  ],
+  "merge": {
+    "group_columns": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "run_columns": []
+  },
+  "outliers": {},
+  "carry_comments": true
+}

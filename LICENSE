@@ -1,0 +1,297 @@
+Personal Freedom & Anti-Commercial Copyleft License
+个人自由与反商业传染式许可
+PFAC License — Version 1.0
+Copyright © 2026 KazuiWANG
+PREAMBLE / 序言
+中文
+本作品的创作与公开分享，不以获取经济利益为目的。
+创造可以源于好奇、兴趣、求知、探索以及创造本身的欲望。知识、思想与技术成果不应当只能通过商业交换才能进入人们的生活。
+本许可希望保留并传播一种可能性：
+人可以自由创造，自由分享，自由使用他人的创造物，而不必将一切创造活动转化为商业活动。
+本许可不要求使用者赞同作者的思想，也不要求使用者接受某种组织、制度或社会主张。
+但是，如果你选择接受本作品所提供的自由，就必须同时接受本许可规定的使用条件。
+你可以不使用本作品，但不能在接受本作品的同时，单方面取消本许可所规定的条件。
+本许可不是为了建立新的商业模式，也不是为了使作者从作品的传播中获得经济利益。它是作者选择如何给予自己的创造物的一份公开声明。
+English
+The creation and public sharing of this Work are not intended to generate economic profit.
+Creation may arise from curiosity, interest, the pursuit of knowledge, exploration, or the desire to create itself. Knowledge, ideas, and technological achievements should not have to pass through commercial exchange in order to become accessible to people.
+This License seeks to preserve and communicate a possibility:
+People can create freely, share freely, and use the creations of others without turning every creative activity into a commercial activity.
+This License does not require Recipients to agree with the Author's beliefs, nor does it require them to accept any particular organization, institution, or social doctrine.
+However, anyone who chooses to accept the freedoms offered by this Work must also accept the conditions established by this License.
+You are free not to use this Work. You may not accept the permissions granted by this License while unilaterally discarding its conditions.
+This License is not intended to establish a new business model or generate economic returns for the Author through the distribution of the Work. It is a public declaration of how the Author chooses to give their creation.
+
+1. DEFINITIONS / 定义
+中文
+在本许可中：
+1.1 原作品（Original Work）
+指由许可授予者拥有或有权授权，并明确以本许可发布的软件、源代码及其相关材料。
+1.2 使用者（Recipient）
+指通过下载、复制、运行、修改、传播或其他方式取得本作品的人或组织。
+1.3 修改作品（Modified Work）
+指对原作品进行实质性修改、扩展、改编、重构，或将原作品的实质性代码纳入其中而形成的作品。
+1.4 源代码（Source Code）
+指开发者修改作品时所使用的首选形式，包括理解、修改、构建和运行该作品所合理需要的源文件、构建脚本、配置及相关材料。
+1.5 商业目的（Commercial Purpose）
+指直接或间接以获取经济收益、商业竞争优势或服务于营利性经营活动为目的的使用行为。
+1.6 商业主体（Commercial Entity）
+指以营利经营为目的的企业、公司、商业组织，以及代表其利益行事的关联主体或其他组织。
+1.7 非营利组织（Non-Profit Organization）
+指依法设立且不以向成员、所有者或控制人分配利润为目的的组织。其使用仍须满足第四条的条件。
+English
+For the purposes of this License:
+1.1 Original Work
+Means the software, source code, and associated materials owned or lawfully licensed by the Licensor and expressly released under this License.
+1.2 Recipient
+Means any individual or organization that obtains the Work through downloading, copying, running, modifying, distributing, or other means.
+1.3 Modified Work
+Means a work resulting from substantial modification, extension, adaptation, or restructuring of the Original Work, or from incorporating substantial portions of its code.
+1.4 Source Code
+Means the preferred form in which developers modify the Work, including source files, build scripts, configuration files, and associated materials reasonably necessary to understand, modify, build, and run the Work.
+1.5 Commercial Purpose
+Means any use directly or indirectly intended to obtain economic profit, commercial competitive advantage, or to serve profit-oriented business activities.
+1.6 Commercial Entity
+Means any company, enterprise, business organization, or other entity operating for profit, as well as any affiliated entity or other organization acting on its behalf or for its benefit.
+1.7 Non-Profit Organization
+Means an organization legally established without the purpose of distributing profits to its members, owners, or controllers. Its use remains subject to the conditions in Section 4.
+1. GRANT OF PERMISSIONS / 授权范围
+中文
+在遵守本许可全部条款的前提下，许可授予者授予使用者全球范围内、非独占、免许可费、不可转让的有限授权，允许使用者：
+下载、安装、复制和运行原作品；
+阅读、研究和学习原作品的源代码；
+为个人非商业目的修改原作品；
+在符合本许可条件的前提下，传播原作品及修改作品；
+在符合本许可条件的前提下，基于原作品进行进一步创造。
+除本许可明确授予的权利外，其他权利均不在本许可授权范围内。
+English
+Subject to full compliance with this License, the Licensor grants each Recipient a worldwide, non-exclusive, royalty-free, non-transferable, limited license to:
+Download, install, copy, and run the Original Work;
+Read, study, and learn from its Source Code;
+Modify the Original Work for personal, non-commercial purposes;
+Distribute the Original Work and Modified Works subject to this License;
+Create further works based on the Original Work subject to this License.
+No rights are granted beyond those expressly stated in this License.
+1. PERSONAL AND NON-COMMERCIAL USE / 个人及非商业使用
+中文
+自然人可以将本作品用于个人学习、研究、实验、娱乐及其他非商业目的。
+个人使用者不得：
+将本作品用于直接或间接获取商业收益的活动；
+将本作品用于履行企业或商业组织的工作职责；
+代表企业或商业主体使用本作品；
+将本作品用于为商业主体提供产品、服务、技术支持或竞争优势；
+通过本作品向他人提供收费服务或商业化解决方案。
+使用者的个人身份不构成商业使用的豁免。
+判断使用性质时，应综合考虑实际目的、受益主体以及使用行为与商业活动之间的关系，而不只考虑使用者的身份或是否直接收费。
+English
+Individuals may use the Work for personal learning, research, experimentation, entertainment, and other non-commercial purposes.
+Individual Recipients shall not:
+Use the Work in activities directly or indirectly intended to generate commercial revenue;
+Use the Work in performing duties for a company or commercial organization;
+Use the Work on behalf of a commercial entity;
+Use the Work to provide products, services, technical support, or competitive advantages to a commercial entity;
+Provide paid services or commercial solutions to others through the Work.
+An individual's personal status does not exempt an otherwise commercial use.
+The nature of a use shall be assessed by considering its actual purpose, its beneficiary, and its relationship to commercial activities, rather than merely the user's identity or whether a direct fee is charged.
+1. NON-PROFIT ORGANIZATIONS / 非营利组织
+中文
+非营利组织可以使用本作品，但必须同时满足以下条件：
+使用行为不以获取商业利润为目的；
+不将本作品用于商业经营或商业产品开发；
+不以本作品为基础向公众提供收费软件、收费服务或其他收费成果；
+基于本作品产生的修改作品及相关源代码，必须按照本许可公开；
+不得将本作品或其修改作品交由商业主体用于商业目的；
+不得通过关联组织、合作方或其他第三方规避上述限制。
+非营利组织的登记身份本身并不自动构成使用授权。实际使用行为必须满足本条全部条件。
+English
+Non-profit organizations may use the Work only if all of the following conditions are met:
+The use is not intended to generate commercial profit;
+The Work is not used for commercial operations or commercial product development;
+No paid software, paid services, or other paid deliverables based on the Work are offered to the public;
+All Modified Works and associated Source Code derived from the Work are released in accordance with this License;
+The Work or any Modified Work is not provided to a Commercial Entity for commercial purposes;
+These restrictions are not circumvented through affiliated organizations, partners, or other third parties.
+Non-profit registration alone does not automatically grant permission to use the Work. All actual uses must satisfy every condition of this Section.
+1. PUBLICATION OF MODIFICATIONS / 修改作品的公开义务
+中文
+任何获得本作品授权并进行实质性修改的使用者，都必须公开修改后的完整对应源代码。
+该义务不以修改作品是否对外分发为前提。
+使用者应当：
+自实质性修改完成之日起三十日内，公开修改后的完整源代码；
+提供足以使他人理解、修改和构建该修改作品的相关文件；
+在公开位置附带本许可全文；
+保留原作品的版权声明及许可声明；
+明确标注修改者、修改日期及主要修改内容；
+不得通过加密、混淆、拆分或其他技术手段故意阻止他人获取和研究源代码。
+公开方式应当使公众能够免费、合理地获取相关源代码，不得以付费、会员资格或商业授权作为获取条件。
+如果使用者因法律义务、保密义务或其他不可避免的限制而无法履行本条公开义务，则其不得进行相应修改或继续使用该修改作品，除非事先获得许可授予者的书面例外授权。
+本条不要求公开与原作品无关的个人资料、密码、密钥、私人信息或依法不得公开的第三方材料。使用者不得以此为由将本应公开的修改代码整体封闭；如无法合理分离，则不得进行相关修改或使用。
+English
+Any Recipient who makes substantial modifications to the Work under this License must publicly release the complete corresponding Source Code of the Modified Work.
+This obligation applies regardless of whether the Modified Work is distributed to others.
+The Recipient shall:
+Publicly release the complete modified Source Code within thirty (30) days after completing substantial modifications;
+Provide the materials reasonably necessary for others to understand, modify, and build the Modified Work;
+Include the full text of this License in the public release;
+Preserve the copyright and license notices of the Original Work;
+Clearly identify the modifier, modification date, and principal changes;
+Not deliberately prevent access to or study of the Source Code through encryption, obfuscation, fragmentation, or other technical means.
+The Source Code shall be made reasonably and freely accessible to the public. No payment, membership, or commercial authorization may be required to obtain it.
+If the Recipient is unable to comply with this publication obligation due to legal duties, confidentiality obligations, or other unavoidable restrictions, the Recipient shall not make the relevant modifications or continue using the Modified Work unless a written exception has been granted in advance by the Licensor.
+This Section does not require the disclosure of unrelated personal data, passwords, keys, private information, or third-party materials that may not lawfully be disclosed. However, this exception shall not be used to withhold the Modified Work as a whole. If the required materials cannot reasonably be separated, the relevant modification or use shall not be undertaken.
+1. STRONG COPYLEFT AND SAME-LICENSE REQUIREMENT / 强传染性与相同许可要求
+中文
+任何基于本作品形成的修改作品及衍生作品，在公开传播时，必须整体采用本许可。
+使用者不得：
+删除或弱化本许可中的非商业限制；
+允许企业或商业主体使用本作品及其衍生部分；
+取消修改作品的源代码公开义务；
+将本作品或其衍生部分改为允许商业使用或封闭源代码的许可；
+通过更换项目名称、调整文件结构、拆分模块或其他形式上的改变规避本条。
+本条适用于与原作品形成实质性衍生关系的部分，不自动扩展到仅仅独立存在、通过普通接口交互或与本作品进行简单聚合的独立作品。
+English
+Any Modified Work or derivative work based on the Original Work must, when publicly distributed, be licensed as a whole under this License.
+Recipients shall not:
+Remove or weaken the non-commercial restrictions of this License;
+Permit Commercial Entities to use the Work or its derivative portions;
+Remove the Source Code publication obligation;
+Re-license the Work or its derivative portions under terms that permit commercial use or closed-source distribution;
+Circumvent this Section through renaming, restructuring, module separation, or other formal changes.
+This Section applies to portions that are substantively derived from the Original Work. It does not automatically extend to independent works that merely exist separately, interact through ordinary interfaces, or are simply aggregated with the Work.
+1. FREE REDISTRIBUTION / 免费传播
+中文
+任何符合本许可条件的使用者，都可以免费复制、传播和分享本作品及其修改作品。
+传播时必须：
+保留原始版权声明；
+附带本许可全文；
+明确标注修改情况；
+不得施加与本许可相冲突的额外限制；
+确保接收者能够免费获取相应源代码。
+任何使用者不得将本作品或其修改作品转化为必须通过付费、商业授权或其他排他性条件才能获得的资源。
+English
+Any Recipient who complies with this License may freely copy, distribute, and share the Original Work and Modified Works without charge.
+When redistributing the Work, the Recipient shall:
+Preserve the original copyright notices;
+Include the full text of this License;
+Clearly identify any modifications;
+Not impose additional restrictions inconsistent with this License;
+Ensure that the corresponding Source Code is freely accessible to Recipients.
+No Recipient may transform the Work or any Modified Work into a resource that can only be obtained through payment, commercial authorization, or other exclusive conditions.
+1. THIRD-PARTY MATERIALS AND INDEPENDENT WORKS / 第三方材料与独立作品
+中文
+本许可仅适用于许可授予者拥有或有权授权的作品部分。
+本作品可能包含或依赖第三方提供的软件、库、框架、字体、图像、数据及其他资源。
+这些第三方材料仍然受其各自许可证和权利条件约束，不因本许可而自动适用本许可。
+使用者应自行核实第三方组件的授权条件，并遵守其规定。
+本许可不授予许可授予者无权授予的任何第三方知识产权。
+English
+This License applies only to portions of the Work owned or lawfully licensed by the Licensor.
+The Work may include or depend on third-party software, libraries, frameworks, fonts, images, data, or other materials.
+Such third-party materials remain subject to their respective licenses and rights. They do not automatically become subject to this License.
+Recipients are responsible for verifying and complying with the applicable terms governing third-party components.
+This License does not grant any third-party intellectual property rights that the Licensor is not authorized to grant.
+1. NO MAINTENANCE OR SUPPORT OBLIGATION / 无维护与支持义务
+中文
+本作品按照现有状态提供。
+许可授予者没有义务：
+持续维护、更新或修复本作品；
+回复使用者的咨询；
+接受或合并任何修改建议；
+修复使用者发现的漏洞；
+保证本作品与未来的软件、硬件或操作环境兼容；
+监控本作品的传播和使用情况；
+主动调查或追究每一项可能违反本许可的行为。
+使用者应自行承担使用本作品所产生的风险。
+本许可不构成技术支持、维护服务、质量保证或持续更新的承诺。
+English
+The Work is provided on an as-is basis.
+The Licensor has no obligation to:
+Maintain, update, or repair the Work;
+Respond to Recipient inquiries;
+Accept or incorporate proposed modifications;
+Fix bugs or vulnerabilities discovered by Recipients;
+Ensure compatibility with future software, hardware, or operating environments;
+Monitor the distribution or use of the Work;
+Investigate or pursue every suspected violation of this License.
+Recipients assume responsibility for the risks arising from their use of the Work.
+This License does not constitute a commitment to provide technical support, maintenance, quality assurance, or ongoing updates.
+1. DISCLAIMER OF WARRANTY AND LIABILITY / 免责声明与责任限制
+中文
+在适用法律允许的最大范围内，本作品按“现状”（AS IS）提供，不附带任何明示或默示的保证，包括但不限于适销性、特定用途适用性、不侵权、准确性、安全性及持续可用性的保证。
+在适用法律允许的最大范围内，许可授予者不对因使用、修改、传播或无法使用本作品而产生的任何直接、间接、附带、特殊或后果性损失承担责任。
+本条不排除适用法律明确规定不得排除或限制的责任。
+English
+To the maximum extent permitted by applicable law, the Work is provided on an "AS IS" basis, without warranties of any kind, whether express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, accuracy, security, or continued availability.
+To the maximum extent permitted by applicable law, the Licensor shall not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use, modification, distribution, or inability to use the Work.
+Nothing in this Section excludes or limits liability that cannot lawfully be excluded or limited under applicable law.
+1. TERMINATION / 授权终止
+中文
+任何使用者实质性违反本许可条件时，其依据本许可取得的授权即告终止。
+自授权终止之日起，该使用者必须停止未经授权的使用、修改和传播行为。
+其他合法取得本作品的使用者，其授权不因某一使用者的违规行为而自动终止。
+在适用法律允许的范围内，许可授予者可以书面恢复特定使用者的授权。
+English
+Any Recipient who materially violates the conditions of this License shall have their permissions under this License terminated.
+Upon termination, the Recipient must cease all use, modification, and distribution activities that are no longer authorized.
+The permissions of other Recipients who have lawfully obtained the Work shall not automatically terminate due to another Recipient's violation.
+To the extent permitted by applicable law, the Licensor may restore a specific Recipient's permissions through written authorization.
+1. AUTHOR'S DECLARATION / 作者声明
+中文
+许可授予者公开本作品，不以获取许可费、商业收益或经济回报为目的。
+许可授予者不承诺主动监控、追踪或调查使用者的行为，也不承担必须对每一项违反本许可的行为采取法律行动的义务。
+许可授予者不保证能够发现所有违反本许可的行为，也不保证本许可在所有司法管辖区均能以相同方式执行。
+许可授予者保留为维持本许可所规定的使用条件而依法采取行动的权利，但没有必须采取此类行动的义务。
+本声明不构成对本作品著作权或本许可授权条件的放弃。
+English
+The Licensor releases the Work without seeking license fees, commercial profits, or economic returns.
+The Licensor does not undertake to actively monitor, track, or investigate Recipient activities, nor is the Licensor obligated to take legal action against every violation of this License.
+The Licensor does not guarantee the discovery of all violations or the uniform enforceability of this License in every jurisdiction.
+The Licensor reserves the right to take lawful action to preserve the conditions established by this License, but assumes no obligation to do so.
+This declaration does not constitute a waiver of the copyright in the Work or of the licensing conditions established herein.
+1. GENERAL PROVISIONS / 一般条款
+中文
+13.1 可分割性
+如果本许可中的某一条款被认定为无效或不可执行，其余条款在适用法律允许的范围内继续有效。
+13.2 不构成权利放弃
+许可授予者未行使或延迟行使本许可中的某项权利，不视为放弃该权利。
+13.3 权利保留
+除本许可明确授予的权利外，许可授予者保留其依法拥有的其他权利。
+13.4 法律适用
+本许可不指定单一国家或地区作为全球统一适用法律。其解释、效力及执行应依据相关争议所适用的法律规则确定，并受相关司法管辖区不可排除的强制性法律约束。
+13.5 语言
+本许可提供中文和英文两个版本。两个版本应尽可能作一致解释。如出现无法协调的语言差异，以英文版本作为解释参考文本，但不得排除适用法律对语言效力的强制性规定。
+English
+13.1 Severability
+If any provision of this License is held invalid or unenforceable, the remaining provisions shall remain in effect to the extent permitted by applicable law.
+13.2 No Waiver
+The failure or delay of the Licensor to exercise any right under this License shall not constitute a waiver of that right.
+13.3 Reservation of Rights
+Except for the rights expressly granted under this License, the Licensor reserves all other rights lawfully held by the Licensor.
+13.4 Applicable Law
+This License does not designate a single country or jurisdiction as universally governing all uses worldwide. Its interpretation, validity, and enforcement shall be determined in accordance with the applicable conflict-of-law rules and the mandatory laws of the relevant jurisdiction.
+13.5 Language
+This License is provided in Chinese and English. Both versions shall be interpreted consistently to the greatest extent possible. In the event of an irreconcilable linguistic discrepancy, the English version shall serve as the reference text for interpretation, subject to any mandatory legal requirements governing language and interpretation.
+1. FINAL DECLARATION / 最终声明
+中文
+本许可不要求任何人必须使用本作品，也不要求任何人必须认同作者的思想。
+如果你接受这些条件，可以自由地使用、研究、修改和传播本作品。
+如果你不接受这些条件，你可以选择不使用本作品。
+作者不会要求你为自己的选择作出解释。
+创造可以不以盈利为目的。
+分享不必以商业交换为前提。
+人可以拒绝一种被视为理所当然的规则，即使这种拒绝并不能改变整个世界。
+本作品以这种方式被创造，也以这种方式被给予。
+English
+This License does not require anyone to use the Work, nor does it require anyone to agree with the Author's beliefs.
+If you accept these conditions, you are free to use, study, modify, and distribute the Work.
+If you do not accept these conditions, you are free not to use the Work.
+The Author does not require you to explain your choice.
+Creation need not be motivated by profit.
+Sharing need not depend on commercial exchange.
+People may reject rules that are treated as inevitable, even when such rejection cannot change the world as a whole.
+This Work was created in this way, and is given in this way.
+License Name: Personal Freedom & Anti-Commercial Copyleft License
+Abbreviation: PFAC License
+Version: 1.0
+Copyright ©: [YEAR] [AUTHOR]
+Contact: [OPTIONAL CONTACT INFORMATION]

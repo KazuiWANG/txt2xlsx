@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# 虚拟环境
+.venv/
+venv/
+
+# 转换输出与日志
+output/
+*.log
+
+# PyInstaller 构建产物（exe 走 Release 附件，不入库）
+dist/
+build/
+
+# 本地审核备份
+docs/release-backup/
+
+# 临时目录
+_scratch/

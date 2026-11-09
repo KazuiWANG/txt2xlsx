@@ -1,0 +1,5 @@
+openpyxl>=3.1,<4
+Pillow>=8.0
+
+# 仅打包 exe 需要（源码运行不需要）
+pyinstaller>=6.0,<7
